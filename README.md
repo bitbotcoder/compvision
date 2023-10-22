@@ -7,7 +7,9 @@
 
 ```
 pip install opencv-python
-
-for mac
+```
+MacOS 
+Although above shall work in most cases, however if doesnt then install whole opencv libs via brew
+```
 brew install opencv
 ```
